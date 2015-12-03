@@ -1,3 +1,6 @@
+v2.0.3, 2015-12-03 -- iReader, fix memory leak bug
+ * GearmanClient - fix memory leak while use GearmanClient instance as a
+ * constant
 v2.0.X, 2012-XX-XX -- Major bug fix release
  * GearmanWorker - Dispatch to the right function instead of looping
  * GearmanClient - Let the server handle the special '-' unique [GH-18]

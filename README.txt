@@ -15,6 +15,8 @@ Installation
 
 Links
 =====
+* 2.0.3 source <https://github.com/ireaderlab/python-gearman>
+
 * 2.x source <http://github.com/Yelp/python-gearman/>
 * 2.x documentation <http://packages.python.org/gearman/>
 
